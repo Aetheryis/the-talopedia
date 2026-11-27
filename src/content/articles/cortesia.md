@@ -1,6 +1,6 @@
 ---
 title: "Cortesia"
-nativeTitle: "Sfederowane Stany Cortesii"
+nativeTitle: "Cortesie"
 type: overview
 nation: cortesia
 infobox:
@@ -10,13 +10,13 @@ infobox:
   - label: "Motto"
     value:
       - "Przetrwamy"
-      - "\"We Will Endure\""
+      - "*\"We Will Endure\"*"
   - label: "Anthem"
     value:
       - "[Hymn do Milosci Ojczyzny](https://www.youtube.com/watch?v=KXqxFp7PccE)"
-      - "\"Hymn to Love of Country\""
+      - "*\"Hymn to Love of Country\"*"
   - { label: "Capital", value: "Corslawa" }
-  - { label: "Largest City", value: "Jelgawa" }
+  - { label: "Largest City", value: "Corslawa" }
   - { section: "Administration" }
   - { label: "Government", value: "Social Democratic Federation" }
   - { label: "President", sub: true, value: "Nicholai Reszke" }
@@ -26,7 +26,7 @@ infobox:
       - "Rada Federalna"
       - "• Rządowy (Upper House)"
       - "• Ludzie (Lower House)"
-  - { label: "Formation", value: "July 24, 1650" }
+  - { label: "Formation", value: ":date[1650-07-24|ago]" }
   - { section: "Demographics" }
   - { label: "Population", value: "1932 Census" }
   - { label: "Total", sub: true, value: "55,568,000" }
@@ -35,8 +35,9 @@ infobox:
     value:
       - "68.3% Cortesian"
       - "14.8% Nitravian"
-      - "13.5% Livonian"
-      - "2.2% Alemannian"
+      - "10.2% Turulian"
+      - "4.1% Livonian"
+      - "1.4% Alemannian"
       - "1.2% Others"
   - label: "Religion"
     value:
@@ -55,24 +56,25 @@ infobox:
       - "Standard Alemannian"
   - { label: "Demonym", value: "Cortesian" }
   - { label: "GDP (PPP)", value: "1932 Census" }
-  - { label: "Total", sub: true, value: "$2,206,240,641,000" }
-  - { label: "Per Capita", sub: true, value: "$39,703" }
+  - { label: "Total", sub: true, value: ":up $2,642,387,161,000" }
+  - { label: "Per Capita", sub: true, value: ":down $35,200" }
   - { label: "Currency", value: "Cortesian Krona / CTK (kr)" }
-  - { label: "Life Expectancy", value: "42.9 years" }
-  - { label: "Literacy Rate", value: "50.7%" }
-  - { label: "HDI", value: "0.545 (high)" }
+  - { label: "Life Expectancy", value: ":up 42.4 years" }
+  - { label: "Literacy Rate", value: ":up 51.9%" }
+  - { label: "HDI", value: ":up 0.545 (high)" }
   - { section: "Miscellaneous Info" }
-  - { label: "Land Area", value: "279,031 km²" }
-  - { label: "Water Area", value: "9,293 km²" }
+  - { label: "Land Area", value: "391,104 km²" }
+  - { label: "Water Area", value: "76,977 km²" }
   - { label: "Driving Side", value: "Right" }
   - { label: "Alpha-2 Code", value: "CS" }
   - { label: "Alpha-3 Code", value: "COR" }
 ---
+
 **Cortesia**, formally the Federated States of Cortesia, is a country in central [[evria]]. With its coastline restricted to a small section of the Lower Suebian Sea to the west, Cortesia shares land borders with several other Evrian nations. To the north across the Czernáwa River lies Livonia, to the northeast is [[rudania]], to the east just past the source of the Bystrawice River, one of the Modrawa River’s tributaries, lies Sidanya. To the southeast Cortesia shares a border with Turulia, and then finally the nation’s southwestern border, easily its longest border, is shared with [[alemannia]]. With a population just shy of 56 million, Cortesia is nowhere near the most populous country, ranking 27th overall according to 1932 Census data. The nation of Cortesia consists of a collection of 26 individual states, each operating mostly independently save for any matters that affect the nation as a whole. The capital of Cortesia is Corslawa, with a population of 1.8 million people, while its largest city is Jelgawa with a population of 2.34 million people.
 
 ## Etymology
 
-Cortesia derives its name from the Cortas people, a collection of tribal peoples inhabiting the flatlands north of the Danau River and surrounding the Corslawa River. The name Cortas originates from the Cortese word *cohr*, meaning “field” or “flatland.”
+Cortesia derives its name from the Cortas people, a collection of tribal peoples inhabiting the flatlands north of the Danau River and surrounding the Modrawa River. The name Cortas originates from the Cortese word *cohr*, meaning “field” or “flatland.”
 
 ## History
 
@@ -88,7 +90,7 @@ Now presenting a unified front, it was much harder for the raiders to get anythi
 
 Times would prove to be tough in the coming years, however. First, a Great Fire swept through the region on the back of a drought, leaving many starving and resulting in a revolt, which the King’s forces were able to quell. After recovering, Cortesia entered into a time of peace and prosperity, as the region recovered from the drought and crops flourished once more. Cortesia also wasn’t developing alone all this time, and they developed healthy trade relations with their neighbors, even growing their economy by providing mercenaries to other nations to help them fight their wars.
 
-Eventually, those living in the Nitravian region to the south were feeling snubbed by those to the north, and so they staged a rebellion. It was long and bloody, and although the Cortesian monarchy managed to crush the uprising, the peasantfolk weren’t happy with how many of their loved ones were lost in the process. Another revolt broke out, and the already weakened monarchy didn’t have the manpower to quell this one. As the revolt reached the capital of Corslawa, King Artur Łozowski accepted defeat. He rode out to meet with the leaders of the revolt, abdicating his crown, and on July 24th, 1650, the Kingdom of Cortesia was no more and in its place was instead a democracy run by the common folk.
+Eventually, those living in the Nitravian region to the south were feeling snubbed by those to the north, and so they staged a rebellion. It was long and bloody, and although the Cortesian monarchy managed to crush the uprising, the peasantfolk weren’t happy with how many of their loved ones were lost in the process. Another revolt broke out, and the already weakened monarchy didn’t have the manpower to quell this one. As the revolt reached the capital of Corslawa, King Artur Łozowski accepted defeat. He rode out to meet with the leaders of the revolt, abdicating his crown, and on July 24, 1650, the Kingdom of Cortesia was no more and in its place was instead a democracy run by the common folk.
 
 In the years that followed, Cortesia would become even more prosperous than it ever was as a monarchy, though they forgot their militant roots, which would eventually come to be recognized as a great failing of the Cortesian people. The neighboring nation of Rudania had been eyeing up Cortesia’s fertile land for a long while, and one day they struck unexpectedly, rapidly overrunning the nation’s defenses before they could provide organized resistance and resulting in the total subjugation of Cortesia.
 
@@ -112,37 +114,63 @@ Overseeing the Rada Federalna are the offices of President and Federal Chancello
 
 The judiciary system is independent of the Rada Federalna, with the Sąd Najwyższy (lit. ‘Supreme Court’) as the highest judicial institution. Courts operate at the federal, state, and local levels and deal with charterial, civil, criminal, and administrative matters. Judges are appointed for life based upon their merits in the legal field rather than any political standing or allegiance, and are obligated to uphold federal law and citizens’ guaranteed rights.
 
+## Economy
+
 ## Geography
 
 ### Topography
 
+Cortesia extends roughly 750 kilometers from its northernmost point to its southernmost point, and 608 kilometers from its westernmost point to its easternmost point. It has a total land area of 394,104 square kilometers, with an average elevation of 275 meters. Around 20% of Cortesian territory is above this average elevation, and 5% lies above 500 meters. Cortesia also claims territory in the Tethys Sea in an area 76,977 square kilometers in size.
+
 <div class="imgrid">
-<figure style="flex:1.501"><img src="/assets/old-media/media/cortesia-4.jpg" alt=""><figcaption></figcaption></figure>
-<figure style="flex:1.501"><img src="/assets/old-media/media/cortesia-5.jpg" alt=""><figcaption></figcaption></figure>
+<figure style="flex:1.333"><img src="https://lh3.googleusercontent.com/d/1t01yvobKdxBB9SZv9prbcOajMGAT8sta=w2000" alt="*Straznik, the tallest mountain in Cortesia standing at 2,501 meters above sea level.*"><figcaption>*Straznik, the tallest mountain in Cortesia standing at 2,501 meters above sea level.*</figcaption></figure>
+<figure style="flex:1.500"><img src="https://lh3.googleusercontent.com/d/1fCGp3S9pj575VfFlhwF0Lo49X99wd49I=w2000" alt="*Spring in southern Cortesia, near the mountain valley town of Dolina Krokusów.*"><figcaption>*Spring in southern Cortesia, near the mountain valley town of Dolina Krokusów.*</figcaption></figure>
 </div>
 
 <div class="imgrid">
-<figure style="flex:1.501"><img src="/assets/old-media/media/cortesia-6.jpg" alt=""><figcaption></figcaption></figure>
-<figure style="flex:1.507"><img src="/assets/old-media/media/cortesia-7.jpg" alt=""><figcaption></figcaption></figure>
+<figure style="flex:1.781"><img src="https://lh3.googleusercontent.com/d/1ygaTH3S84iOO9pq9fd6lpBtNk5o_YsD8=w2000" alt="*Sosnowieża Forest in eastern Cortesia, along the borders with Rudania and Sidanya; Cortesia’s largest old-growth forest.*"><figcaption>*Sosnowieża Forest in eastern Cortesia, along the borders with Rudania and Sidanya; Cortesia’s largest old-growth forest.*</figcaption></figure>
+<figure style="flex:1.502"><img src="https://lh3.googleusercontent.com/d/1gT8JQjrDCIv0RvLh6wT-XauXelQYkbMK=w2000" alt="*One of the wide, sweeping curves of the Modrawa River just south of Corslawa.*"><figcaption>*One of the wide, sweeping curves of the Modrawa River just south of Corslawa.*</figcaption></figure>
 </div>
 
 <div class="imgrid">
-<figure style="flex:1.448"><img src="/assets/old-media/media/cortesia-8.jpg" alt=""><figcaption></figcaption></figure>
-<figure style="flex:1.778"><img src="/assets/old-media/media/cortesia-9.jpg" alt=""><figcaption></figcaption></figure>
+<figure style="flex:0.750"><img src="https://lh3.googleusercontent.com/d/1lxK5c1VI-dqDK4N5jYaohYMvYYHJYDLl=w2000" alt="*Striebristý Falls, the origin of the Modrawa river and the tallest waterfall in Cortesia with an 80 meter drop.*"><figcaption>*Striebristý Falls, the origin of the Modrawa river and the tallest waterfall in Cortesia with an 80 meter drop.*</figcaption></figure>
+<figure style="flex:1.500"><img src="https://lh3.googleusercontent.com/d/1iV-_1lK3sluzHrQjoPKwxm8WYjGaj25g=w2000" alt="*Zrkadlowá Jaskyňa, a karst cave in the Nitravian region of Cortesia known for its limestone formations and the mirror-like water surfaces beneath them.*"><figcaption>*Zrkadlowá Jaskyňa, a karst cave in the Nitravian region of Cortesia known for its limestone formations and the mirror-like water surfaces beneath them.*</figcaption></figure>
 </div>
 
 <div class="imgrid">
-<figure style="flex:1.501"><img src="/assets/old-media/media/cortesia-10.jpg" alt=""><figcaption></figcaption></figure>
-<figure style="flex:1.498"><img src="/assets/old-media/media/cortesia-11.jpg" alt=""><figcaption></figcaption></figure>
+<figure style="flex:2.038"><img src="https://lh3.googleusercontent.com/d/1MYswfQ57tiMEakJ9FDELWS6sSJDVIm4K=w2000" alt="*Szmaragdowe Oko, a glacial lake in the Żelazny Mountains.*"><figcaption>*Szmaragdowe Oko, a glacial lake in the Żelazny Mountains.*</figcaption></figure>
+<figure style="flex:2.212"><img src="https://lh3.googleusercontent.com/d/1aZRKy4wlrZ-7XophtXnUKDJhWAhtFK6R=w2000" alt="*A footpath alongside the Szumna, a small but rather quick tributary of the Modrawa River.*"><figcaption>*A footpath alongside the Szumna, a small but rather quick tributary of the Modrawa River.*</figcaption></figure>
 </div>
+
+<figure class="float float-right" style="width:300px"><img src="https://lh3.googleusercontent.com/d/14SPiF4cM7I5IlLiH5unQTek1HVwgKFkn=w2000" alt="*Corslawa Theater Square, 1925*"><figcaption>*Corslawa Theater Square, 1925*</figcaption></figure>
+
+### Climate
+
+Cortesia has a climate on the colder end of temperate, experiencing all four seasons with mild summers and cold winters. (WIP)
+
+### Human Geography
 
 ## Demographics
 
+### Ethnic Groups
+
+### Languages
+
+### Religion
+
+### Citizenship
+
 ### Largest Cities
 
-| Rank | City Name | Urban Population | Subdivision |
+| Rank | City | Urban Population | Subdivision |
 | --- | --- | --- | --- |
-
-<div class="imgrid">
-<figure style="flex:1.538"><img src="/assets/old-media/media/cortesia-12.jpg" alt=""><figcaption></figcaption></figure>
-</div>
+| 1 | Corslawa | 2,342,000 | Wilcza |
+| 2 | Szerencsehely | 1,743,000 | Turulia |
+| 3 | Jelgawa | 843,000 | Wydraza |
+| 4 | Kretme | 722,000 | Kojotza |
+| 5 | Czółnów | 576,000 | Kaczkza |
+| 6 | Growinas | 528,000 | Końza |
+| 7 | Bosgownie | 309,000 | Smokza |
+| 8 | Kresów | 303,000 | Jaskółkza |
+| 9 | Pabžys | 299,000 | Gęśza |
+| 10 | Jiezmene | 268,000 | Rybaza |
